@@ -1,0 +1,15 @@
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\AND\bin\Debug\net9.0\AND.exe
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\AND\bin\Debug\net9.0\AND.deps.json
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\AND\bin\Debug\net9.0\AND.runtimeconfig.json
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\AND\bin\Debug\net9.0\AND.dll
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\AND\bin\Debug\net9.0\AND.pdb
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\AND\obj\Debug\net9.0\AND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\AND\obj\Debug\net9.0\AND.AssemblyInfoInputs.cache
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\AND\obj\Debug\net9.0\AND.AssemblyInfo.cs
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\AND\obj\Debug\net9.0\AND.csproj.CoreCompileInputs.cache
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\AND\obj\Debug\net9.0\AND.sourcelink.json
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\AND\obj\Debug\net9.0\AND.dll
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\AND\obj\Debug\net9.0\refint\AND.dll
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\AND\obj\Debug\net9.0\AND.pdb
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\AND\obj\Debug\net9.0\AND.genruntimeconfig.cache
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\AND\obj\Debug\net9.0\ref\AND.dll
