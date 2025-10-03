@@ -9,9 +9,11 @@ class Program
     {
 
         Console.WriteLine("sleutel zoek");
+        Console.WriteLine("Y/N");
 
-        bool sleutelKwijt = true;
-
+       
+        bool sleutelKwijt = Console.ReadLine() == "N";
+        
         if (sleutelKwijt == true)
         {
             Console.WriteLine("Je bent je sleutel kwijt!");
@@ -21,10 +23,11 @@ class Program
 
 
         }
-
-        if (sleutelKwijt == false)
+            else
+        
             {
-                Console.WriteLine("drink'n drive, je hebt de sleutels");
+                
+                Console.WriteLine("deur is open, ");
             }
         
         
