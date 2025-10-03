@@ -1,0 +1,15 @@
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\ALS\obj\Debug\net9.0\ALS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\ALS\obj\Debug\net9.0\ALS.AssemblyInfoInputs.cache
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\ALS\obj\Debug\net9.0\ALS.AssemblyInfo.cs
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\ALS\obj\Debug\net9.0\ALS.csproj.CoreCompileInputs.cache
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\ALS\obj\Debug\net9.0\ALS.sourcelink.json
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\ALS\bin\Debug\net9.0\ALS.exe
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\ALS\bin\Debug\net9.0\ALS.deps.json
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\ALS\bin\Debug\net9.0\ALS.runtimeconfig.json
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\ALS\bin\Debug\net9.0\ALS.dll
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\ALS\bin\Debug\net9.0\ALS.pdb
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\ALS\obj\Debug\net9.0\ALS.dll
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\ALS\obj\Debug\net9.0\refint\ALS.dll
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\ALS\obj\Debug\net9.0\ALS.pdb
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\ALS\obj\Debug\net9.0\ALS.genruntimeconfig.cache
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\prog repo\PROG-M1-timothy\04 Beslissen\ALS\obj\Debug\net9.0\ref\ALS.dll
