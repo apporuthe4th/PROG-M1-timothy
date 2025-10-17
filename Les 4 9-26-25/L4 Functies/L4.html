@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://use.typekit.net/mkx0nzt.css">
+    <link rel="stylesheet" href="L4CSS.CSS">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <ul>
+        <p id="stat_1"></p>
+        <p id="stat_2"></p>
+        <p id="stat_3"></p>
+        <p id="stat_4"></p>
+        <p id="stat_5"></p>
+        </ul>
+
+
+
+
+        
+    </div>
+</body>
+<script>
+
+    let caffeine = 500
+
+
+
+    function addon(numA, numB){ // whaaaaaaaaaaaaaaaaaaaaaaaaa
+        let som = numA + numB;
+        console.log(som);
+    return addon
+    }
+addon(1, 1)
+
+
+    function mult(numberino1, numberino2){
+            let multsom = numberino1 * numberino2
+            console.log(multsom);
+return mult
+    }
+    function dice(max){
+    return Math.floor(Math.random() * max);
+    }
+
+
+var roll20 = "baselinetest" + dice(20);
+var stat_1 = "stat_1, " + dice(20);
+var stat_2 = "stat_2, " + dice(20);
+var stat_3 = "stat_3, " + dice(20);
+var stat_4 = "stat_4, " + dice(20);
+var stat_5 = "stat_5, " + dice(20);
+
+document.getElementById("stat_1").innerHTML = stat_1;
+document.getElementById("stat_2").innerHTML = stat_2;
+document.getElementById("stat_3").innerHTML = stat_3;
+document.getElementById("stat_4").innerHTML = stat_4;
+document.getElementById("stat_5").innerHTML = stat_5;
+
+
+
+
+    document.getElementById("diceroll").innerHTML = roll20;
+</script>
+    
+</html>

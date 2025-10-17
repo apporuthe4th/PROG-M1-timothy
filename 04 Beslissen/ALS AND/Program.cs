@@ -14,17 +14,5 @@ class Program
         bool X_VEL  = Console.ReadLine() == "XY";
 
         bool Z_VEL  = Console.ReadLine() == "ZY";
-if (...)
-        {
 
-        }
-        else if (...)
-        {
-
-        }
-        else
-        {
-
-        }
-    }
 }

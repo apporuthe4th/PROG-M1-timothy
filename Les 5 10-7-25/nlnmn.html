@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+  </head>
+  <body>
+  
+    <ul class="statlist panel">
+      <li id="str"></li>
+      <li id="dex"></li>
+      <li id="luck"></li>
+      <li id="spd"></li>
+      <li id="charm"></li>
+      <li id="perc"></li>
+
+    </ul>
+  </body>
+  <script>
+    function dice1(max) {
+      return Math.ceil(Math.random() * max);
+    } // above applies to ALL ROLLS
+
+    let roll_1 = dice1(6);
+    let roll_2 = dice1(6);
+    let roll_3 = dice1(6);
+    let roll_4 = dice1(6);
+
+const allROLL = [roll_1, roll_2, roll_3, roll_4]
+
+allROLL.forEach(element => {
+dice1(6);
+});
+
+    function lowfind(roll_1, roll_2, roll_3, roll_4) {
+      var lowest = Math.min(roll_1, roll_2, roll_3, roll_4);
+
+      var TOTAL_Roll = roll_1 + roll_2 + roll_3 + roll_4 - lowest;
+      return TOTAL_Roll;
+      console.log(TOTAL_Roll)
+    }
+
+
+    console.log(lowfind(roll_1, roll_2, roll_3, roll_4));
+
+    document.getElementById("str").innerHTML = lowfind(
+      roll_1,
+      roll_2,
+      roll_3,
+      roll_4
+    );
+
+    document.getElementById("dex").innerHTML = lowfind(
+      roll_1,
+      roll_2,
+      roll_3,
+      roll_4
+    );
+
+    document.getElementById("perc").innerHTML = allROLL;
+    
+
+
+  </script>
+</html>

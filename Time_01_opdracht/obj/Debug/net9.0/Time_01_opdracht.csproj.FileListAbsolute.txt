@@ -1,0 +1,14 @@
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Time_01_opdracht\bin\Debug\net9.0\Time_01_opdracht.exe
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Time_01_opdracht\bin\Debug\net9.0\Time_01_opdracht.deps.json
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Time_01_opdracht\bin\Debug\net9.0\Time_01_opdracht.runtimeconfig.json
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Time_01_opdracht\bin\Debug\net9.0\Time_01_opdracht.dll
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Time_01_opdracht\bin\Debug\net9.0\Time_01_opdracht.pdb
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Time_01_opdracht\obj\Debug\net9.0\Time_01_opdracht.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Time_01_opdracht\obj\Debug\net9.0\Time_01_opdracht.AssemblyInfoInputs.cache
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Time_01_opdracht\obj\Debug\net9.0\Time_01_opdracht.AssemblyInfo.cs
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Time_01_opdracht\obj\Debug\net9.0\Time_01_opdracht.csproj.CoreCompileInputs.cache
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Time_01_opdracht\obj\Debug\net9.0\Time_01_opdracht.dll
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Time_01_opdracht\obj\Debug\net9.0\refint\Time_01_opdracht.dll
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Time_01_opdracht\obj\Debug\net9.0\Time_01_opdracht.pdb
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Time_01_opdracht\obj\Debug\net9.0\Time_01_opdracht.genruntimeconfig.cache
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Time_01_opdracht\obj\Debug\net9.0\ref\Time_01_opdracht.dll

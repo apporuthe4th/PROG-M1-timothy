@@ -1,0 +1,14 @@
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Les 4 9-26-25\op1\bin\Debug\net9.0\op1.exe
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Les 4 9-26-25\op1\bin\Debug\net9.0\op1.deps.json
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Les 4 9-26-25\op1\bin\Debug\net9.0\op1.runtimeconfig.json
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Les 4 9-26-25\op1\bin\Debug\net9.0\op1.dll
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Les 4 9-26-25\op1\bin\Debug\net9.0\op1.pdb
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Les 4 9-26-25\op1\obj\Debug\net9.0\op1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Les 4 9-26-25\op1\obj\Debug\net9.0\op1.AssemblyInfoInputs.cache
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Les 4 9-26-25\op1\obj\Debug\net9.0\op1.AssemblyInfo.cs
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Les 4 9-26-25\op1\obj\Debug\net9.0\op1.csproj.CoreCompileInputs.cache
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Les 4 9-26-25\op1\obj\Debug\net9.0\op1.dll
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Les 4 9-26-25\op1\obj\Debug\net9.0\refint\op1.dll
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Les 4 9-26-25\op1\obj\Debug\net9.0\op1.pdb
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Les 4 9-26-25\op1\obj\Debug\net9.0\op1.genruntimeconfig.cache
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Les 4 9-26-25\op1\obj\Debug\net9.0\ref\op1.dll

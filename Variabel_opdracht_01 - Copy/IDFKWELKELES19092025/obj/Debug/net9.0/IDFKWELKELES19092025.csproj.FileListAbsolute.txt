@@ -1,0 +1,14 @@
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\IDFKWELKELES19092025\obj\Debug\net9.0\IDFKWELKELES19092025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\IDFKWELKELES19092025\obj\Debug\net9.0\IDFKWELKELES19092025.AssemblyInfoInputs.cache
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\IDFKWELKELES19092025\obj\Debug\net9.0\IDFKWELKELES19092025.AssemblyInfo.cs
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\IDFKWELKELES19092025\obj\Debug\net9.0\IDFKWELKELES19092025.csproj.CoreCompileInputs.cache
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\IDFKWELKELES19092025\bin\Debug\net9.0\IDFKWELKELES19092025.exe
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\IDFKWELKELES19092025\bin\Debug\net9.0\IDFKWELKELES19092025.deps.json
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\IDFKWELKELES19092025\bin\Debug\net9.0\IDFKWELKELES19092025.runtimeconfig.json
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\IDFKWELKELES19092025\bin\Debug\net9.0\IDFKWELKELES19092025.dll
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\IDFKWELKELES19092025\bin\Debug\net9.0\IDFKWELKELES19092025.pdb
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\IDFKWELKELES19092025\obj\Debug\net9.0\IDFKWELKELES19092025.dll
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\IDFKWELKELES19092025\obj\Debug\net9.0\refint\IDFKWELKELES19092025.dll
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\IDFKWELKELES19092025\obj\Debug\net9.0\IDFKWELKELES19092025.pdb
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\IDFKWELKELES19092025\obj\Debug\net9.0\IDFKWELKELES19092025.genruntimeconfig.cache
+C:\Users\timot\AppData\bwuwuwuwuu\school\PROG\IDFKWELKELES19092025\obj\Debug\net9.0\ref\IDFKWELKELES19092025.dll

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="title">family recipes</h1>
+    <article>
+        <h2 id="receptTitle">gruncle's relaxation meds</h2>
+        <ul id="ingredients">
+            <li class="ingredients">mysterymeat</li>
+            <li class="ingredients">paprikapowder</li>
+            <li class="ingredients3">heroin</li>
+        </ul>
+    </article>
+
+</body>
+<script>
+    let alfred = document.getElementById("title");
+    console.log(alfred.innerText);
+
+    let receptTitle = document.getElementById("receptTitle");
+        console.log(receptTitle.innerText);  
+
+        receptTitle.innerText = "medicinal sleepmeds";
+               console.log(receptTitle.innerText);
+
+    let ingredients = document.getElementById("ingredients");
+      console.log(ingredients.innerText);
+    
+    let ingredients3 = document.getElementsByClassName("ingredients3");
+        ingredients3[0].innerText = "cannabis";
+
+    
+    let title = document.getElementById("title");
+    title.style.backgroundColor = "light    blue";
+    title.style.color = "white";
+
+    receptTitle.style.color = "lightblue";
+    ingredients.style.backgroundColor = "lightblue";
+    
+
+</script>
+</html>

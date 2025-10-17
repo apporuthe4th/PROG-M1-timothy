@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<html lang="nl">
+<html lang="cn"></html>
+<head>
+
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="title">wassup </h1>
+
+    <h2 id="LANGCHANGE">MID</h2>
+
+    <h3> <img src="https://picsum.photos/300/300" alt="een afbeelding"></h3>
+    <label for="language-select">Choose a language:</label>
+    <select id="language-select" onchange="changeLanguage()">
+        <option value="en">English</option>
+        <option value="nl">Nederlands</option>
+        <option value="cn">中文</option>
+    </select>
+    
+</body>
+<script>
+
+    let NL_translatie =  "Max, de nieuwsgierige hond, ontdekte op een dag een geheime tuin vol kleurrijke bloemen. Terwijl hij speelde, vond hij een oude sleutel    die naar een verborgen schat leidde.";
+    let NL_title = "Max's Avontuur";
+    let EN_translatie = "Max, the curious dog, discovered a secret garden full of colorful flowers one day. As he played, he found an old key that led to a hidden treasure.";  
+    let EN_title = "Max's Adventure";
+
+    let CN_translatie = "好奇的狗狗马克斯有一天发现了一个充满五彩缤纷花朵的秘密花园。在玩耍时，他找到了一把通向隐藏宝藏的古老钥匙。"; 
+    let CN_title = "马克斯的冒险";
+
+
+    console.log(CN_translatie);
+
+    ///let title = document.getElementById("title"); /// verander deze sectie naar titel OLD
+
+    ///let langChange = document.getElementById("LANGCHANGE"); /// verander deze sectie OLD
+
+    function changeLanguage() {
+        let langSelection = document.getElementById("language-select").value;
+        let langChange = document.getElementById("LANGCHANGE");
+        let value = document.getElementById("language-select").value;
+
+        if (value === "en") {
+            title.innerText = EN_title;
+            langChange.innerText = EN_translatie;
+            console.log("en selected");
+            title.style.color = "white";
+            title.style.backgroundColor = "black";
+            
+        } else if (value === "nl") {    
+            title.innerText = NL_title;
+            langChange.innerText = NL_translatie;
+            console.log("nl selected");
+            title.style.color = "lightblue";
+            title.style.backgroundColor = "white";
+
+        } else if (value === "cn") {
+            title.innerText = CN_title;
+            langChange.innerText = CN_translatie;
+            console.log("cn selected");
+            title.style.color = "yellow";
+            title.style.backgroundColor = "red";
+        }
+    }
+
+  /// Onderdeel verandert naar alle talen gebruik een functie om t door te cycelen
+
+    
+
+    
+
+</script>
+</html>

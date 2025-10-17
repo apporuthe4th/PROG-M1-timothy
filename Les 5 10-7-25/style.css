@@ -1,0 +1,22 @@
+body{
+    background-color: lightskyblue;
+}
+.statlist{
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    color: azure;
+
+}
+.panel{
+    box-sizing: border-box;
+    margin: auto 0 ;
+    
+    border-radius: 10px;
+    padding: 16px;
+    box-sizing: border-box;
+    background: rgba(0, 0, 0, 0.135);
+    color: black;
+
+}
+

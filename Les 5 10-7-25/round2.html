@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="okok">FUUU</div>
+</body>
+<script>
+// Fix notes: ensure each skill gets 4 dice rolls (1-6). Original code used wrong function name and
+// attempted to log/display undefined variables. This script fills `allskills` and shows it.
+    const allskills = {
+        STR: [],
+        DEX: [],
+        CON: [],
+        INT: [],
+        WIS: [],
+        CHA: [],
+    };
+// now dice
+    function dice() {
+      return Math.ceil(Math.random() * 6);
+}
+
+// Fill each skill with 4 dice rolls (1-6)
+for (const skill in allskills) {
+    const rolls = [];
+    for (let i = 0; i < 4; i++) {
+            
+        rolls.push(dice());
+    }
+    // store the rolls array for this skill
+    allskills[skill] = rolls;
+}
+
+// Debug output: log the full object
+console.log(allskills);
+
+// Show the results in the page. Use textContent so JSON prints nicely.
+document.getElementById("okok").textContent = JSON.stringify(allskills, null, 2);
+
+</script>
+</html>

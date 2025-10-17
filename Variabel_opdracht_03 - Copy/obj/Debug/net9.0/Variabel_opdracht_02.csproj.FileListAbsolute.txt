@@ -1,0 +1,28 @@
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_02\obj\Debug\net9.0\Variabel_opdracht_02.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_02\obj\Debug\net9.0\Variabel_opdracht_02.AssemblyInfoInputs.cache
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_02\obj\Debug\net9.0\Variabel_opdracht_02.AssemblyInfo.cs
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_02\obj\Debug\net9.0\Variabel_opdracht_02.csproj.CoreCompileInputs.cache
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_02\bin\Debug\net9.0\Variabel_opdracht_02.exe
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_02\bin\Debug\net9.0\Variabel_opdracht_02.deps.json
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_02\bin\Debug\net9.0\Variabel_opdracht_02.runtimeconfig.json
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_02\bin\Debug\net9.0\Variabel_opdracht_02.dll
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_02\bin\Debug\net9.0\Variabel_opdracht_02.pdb
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_02\obj\Debug\net9.0\Variabel_opdracht_02.dll
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_02\obj\Debug\net9.0\refint\Variabel_opdracht_02.dll
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_02\obj\Debug\net9.0\Variabel_opdracht_02.pdb
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_02\obj\Debug\net9.0\Variabel_opdracht_02.genruntimeconfig.cache
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_02\obj\Debug\net9.0\ref\Variabel_opdracht_02.dll
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_03 - Copy\bin\Debug\net9.0\Variabel_opdracht_02.exe
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_03 - Copy\bin\Debug\net9.0\Variabel_opdracht_02.deps.json
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_03 - Copy\bin\Debug\net9.0\Variabel_opdracht_02.runtimeconfig.json
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_03 - Copy\bin\Debug\net9.0\Variabel_opdracht_02.dll
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_03 - Copy\bin\Debug\net9.0\Variabel_opdracht_02.pdb
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_03 - Copy\obj\Debug\net9.0\Variabel_opdracht_02.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_03 - Copy\obj\Debug\net9.0\Variabel_opdracht_02.AssemblyInfoInputs.cache
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_03 - Copy\obj\Debug\net9.0\Variabel_opdracht_02.AssemblyInfo.cs
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_03 - Copy\obj\Debug\net9.0\Variabel_opdracht_02.csproj.CoreCompileInputs.cache
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_03 - Copy\obj\Debug\net9.0\Variabel_opdracht_02.dll
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_03 - Copy\obj\Debug\net9.0\refint\Variabel_opdracht_02.dll
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_03 - Copy\obj\Debug\net9.0\Variabel_opdracht_02.pdb
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_03 - Copy\obj\Debug\net9.0\Variabel_opdracht_02.genruntimeconfig.cache
+c:\Users\timot\AppData\bwuwuwuwuu\school\PROG\Variabel_opdracht_03 - Copy\obj\Debug\net9.0\ref\Variabel_opdracht_02.dll
