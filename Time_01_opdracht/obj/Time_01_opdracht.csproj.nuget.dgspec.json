@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\timot\\AppData\\bwuwuwuwuu\\school\\PROG\\Time_01_opdracht\\Time_01_opdracht.csproj": {}
+    "C:\\Users\\timot\\AppData\\bwuwuwuwuu\\school\\PROG\\prog repo\\PROG-M1-timothy\\Time_01_opdracht\\Time_01_opdracht.csproj": {}
   },
   "projects": {
-    "c:\\Users\\timot\\AppData\\bwuwuwuwuu\\school\\PROG\\Time_01_opdracht\\Time_01_opdracht.csproj": {
+    "C:\\Users\\timot\\AppData\\bwuwuwuwuu\\school\\PROG\\prog repo\\PROG-M1-timothy\\Time_01_opdracht\\Time_01_opdracht.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\timot\\AppData\\bwuwuwuwuu\\school\\PROG\\Time_01_opdracht\\Time_01_opdracht.csproj",
+        "projectUniqueName": "C:\\Users\\timot\\AppData\\bwuwuwuwuu\\school\\PROG\\prog repo\\PROG-M1-timothy\\Time_01_opdracht\\Time_01_opdracht.csproj",
         "projectName": "Time_01_opdracht",
-        "projectPath": "c:\\Users\\timot\\AppData\\bwuwuwuwuu\\school\\PROG\\Time_01_opdracht\\Time_01_opdracht.csproj",
+        "projectPath": "C:\\Users\\timot\\AppData\\bwuwuwuwuu\\school\\PROG\\prog repo\\PROG-M1-timothy\\Time_01_opdracht\\Time_01_opdracht.csproj",
         "packagesPath": "C:\\Users\\timot\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\timot\\AppData\\bwuwuwuwuu\\school\\PROG\\Time_01_opdracht\\obj\\",
+        "outputPath": "C:\\Users\\timot\\AppData\\bwuwuwuwuu\\school\\PROG\\prog repo\\PROG-M1-timothy\\Time_01_opdracht\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\timot\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\timot\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
