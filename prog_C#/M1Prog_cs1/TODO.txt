@@ -1,0 +1,93 @@
+dotnet new console --use-program-main
+
+Finished
+
+  [_] \00_install_en_project\01 visual studio code.md
+
+  [_] \00_install_en_project\02 SDK.md
+
+  [_] \00_install_en_project\03 eerste project.md
+
+  [_] \00_install_en_project\04 fout maken.md
+
+  [_] \00_install_en_project\05 waar zet je code.md
+
+  [_] \00_install_en_project\06 verhaaltje.md
+
+  [_] \02_var\04 eerste variabel.md
+
+  [_] \02_var\05 variables.md
+
+  [_] \02_var\06 variables zelf maken.md
+
+  [_] \02_var\07 zelf fouten vinden.md
+
+  [_] \03_rekenen\01 start.md
+
+  [_] \03_rekenen\02 op het scherm.md
+
+ 
+
+  [_] \03_rekenen\03 sommen.md
+
+  [_] \03_rekenen\04 meteen en speciaal.md
+
+  [_] \03_rekenen\05 meer dan 1.md
+
+  [_] \04_beslissen\01 if.md
+
+  [_] \04_beslissen\02 uitbreiden met else.md
+
+  [_] \04_beslissen\03 en.md
+
+  [_] \04_beslissen\04 of.md
+
+  [_] \04_beslissen\05 elseif.md
+
+  [_] \04_beslissen\01_git\01 git.md
+
+  [_] \04_beslissen\01_git\02 clone.md
+
+  [_] \04_beslissen\01_git\03 commit.md
+
+  [_] \04_beslissen\01_git\04 simulize.md
+
+Opdrachten checklist
+
+ 
+
+ 
+
+ 
+
+  [_] \05_collecties\01 arrays.md
+
+  [_] \05_collecties\02 uitvragen.md
+
+  [_] \05_collecties\03 direct gebruiken.md
+
+  [_] \05_collecties\04 direct rekenen.md
+
+  [_] \05_collecties\05 index als variable.md
+
+  [_] \05_collecties\06 i als index.md
+
+  [_] \06_loops\01 loop.md
+
+  [_] \06_loops\02 arraycalc.md
+
+  [_] \06_loops\03 for if.md
+
+  [_] \06_loops\04 stringclass.md
+
+  [_] \06_loops\05 complexe objecten.md
+
+  [_] \06_loops\06 andere stappen.md
+
+  [_] \07_func_use\01 function call.md
+
+  [_] \07_func_use\02 math.md
+
+  [_] \07_func_use\03 function in een for.md
+
+  [_] \07_func_use\04 static func.md
