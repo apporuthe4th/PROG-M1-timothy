@@ -6,29 +6,52 @@
     <title>Document</title>
 </head>
 <body>
-    <p id="cube"    ></p>
+    <p id="cube"></p>
     <p id="cylinder"></p>
+    <p id="triangle"></p>
+    <p id="average"></p>
 </body>
 <script>
-    function cubeInside(X, Y, Z){
-        let cubeCalc = X * Y * Z;
-            console.log("cube inside: " + cubeCalc)
-    }
-cubeInside(5, 5, 5)
-
-    function cylinderInside(X, Y){
-        let cylinderCalc = Math.PI * Math.pow(X, 2) * Y;
-            console.log("cylinder inside: " + cylinderCalc);
-
-        // let cylinderCalc = Math.pow((X * 2) * (Math.PI * Y * 2), 2);
-        //     console.log("cylinder insde: " + cylinderCalc); //REDOOOOOOOOOOO IK WAS EIGENWIJS EN KEEK NIET NAAR DE FORMULE
-
+    // Opgave 1: coob inhoud
+    function berekenInhoud(X, Y, Z){
+        let kubusCalc = X * Y * Z;
+        console.log("kubus inhoud: " + kubusCalc);
+        return kubusCalc;
     }
 
-cubeInside(5, 5, 5)
-cylinderInside(5, 5)
+    // Opgave 2: Cylinder inhoud
+    function cylinderInhoud(diameter, hoogte){
+        let radius = diameter / 2;
+        let cylinderCalc = Math.PI * Math.pow(radius, 2) * hoogte;
+        console.log("cylinder inhoud: " + cylinderCalc);
+        return cylinderCalc;
+    }
 
-document.getElementById("cube").innerHTML = cubeInside
-document.getElementById("cube").innerHTML = cylinderInside
+    // Opgave 3: driehgoek
+    function berekenSchuineZijde(lengte, hoogte){
+        let schuineZijde = Math.sqrt(Math.pow(lengte, 2) + Math.pow(hoogte, 2));
+        console.log("schuine zijde: " + schuineZijde);
+        return schuineZijde;
+    }
+
+    // Opgave 4: mediaan
+    function berekenGemiddelde(n1, n2, n3, n4, n5, n6, n7){
+        let som = n1 + n2 + n3 + n4 + n5 + n6 + n7;
+        let gemiddelde = som / 7;
+        console.log("gemiddelde: " + gemiddelde);
+        return gemiddelde;
+    }
+
+
+    let kubusInhoud = berekenInhoud(10, 5, 10);
+    let cylinderTest = cylinderInhoud(6, 10);
+    let driehoekTest = berekenSchuineZijde(3, 4);
+    let gemiddeldeTest = berekenGemiddelde(7, 7, 8, 9, 6, 7, 8);
+
+
+    document.getElementById("cube").innerHTML = "coob inhoud: " + kubusInhoud;
+    document.getElementById("cylinder").innerHTML = "cylinder inhoud: " + cylinderTest;
+    document.getElementById("triangle").innerHTML = "schuin zijde: " + driehoekTest;
+    document.getElementById("average").innerHTML = "mediaaann: " + gemiddeldeTest;
 </script>
 </html>
